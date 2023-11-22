@@ -19,3 +19,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 # Grabaciones de clase
 ## Modulo 1
 - 20/11/2023 Introduccion a HTML https://youtu.be/tbO5r_AHuv4
+- 21/11/2023 Sesion 1 trabajo grupal https://youtu.be/5WVpk5QGKXI
