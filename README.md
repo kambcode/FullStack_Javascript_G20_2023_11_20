@@ -22,3 +22,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 21/11/2023 Sesion 1 trabajo grupal https://youtu.be/5WVpk5QGKXI
 - 22/11/2023 Formularios en HTML https://youtu.be/Syex2yfYpX4
 - 23/11/2023 Tablas HTML https://youtu.be/GWtOvkARR90
+- 27/11/2023 Introducción a CSS https://youtu.be/WhQWn6MnASM
