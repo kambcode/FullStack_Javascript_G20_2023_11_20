@@ -1,0 +1,37 @@
+h1 {
+    color: green;
+    background-color: yellow;
+}
+
+h4 {
+    color: brown;
+}
+
+#titleBlue {
+   color: blue;
+   font-size: 48px;
+}
+
+button {
+    background-color: blueviolet;
+    color: white;
+}
+
+.textBlue {
+    color: blue;
+    background-color: aqua;
+}
+
+.borderGreen {
+    font-size: 26px;
+    border-color: green;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.borderDotGreen{
+    /* border-color: rgb(70, 189, 80); */
+    border-color: #35FC3E;
+    border-width: 3px;
+    border-style: dotted;
+}
