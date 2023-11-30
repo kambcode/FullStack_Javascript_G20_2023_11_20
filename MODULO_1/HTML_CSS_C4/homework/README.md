@@ -15,7 +15,7 @@ En la generación de estilos hay infinitas maneras de llegar a un mismo resultad
    - La foto de perfil debe tener un ancho de 312px, un borde solido de 8px y de color blanco
    - El nombre debe tener un tamaño de fuente de 30px `font-weight: 700` y color `#23003E`
    - El texto con la descripción del perfil debe tener un tamaño de fuente de 12px `font-weight: 400` y color `#7E7E7E`;
-   - El color de botón debe ser `#6A14AD` y debe tener un padding lateral de 20px y horizontal de 10px, y un `border-radius: 3px`. 
+   - El color de botón debe ser `#6A14AD` y debe tener un padding lateral (izquerda y derecha) de 20px y vertica (arrriba y abajo) de 10px, y un `border-radius: 3px`. 
    - Las imágenes de prueba las vas a encontrar en la carpeta ./homework_resources
    - Plus: Intenta centrar la tarjeta en el body utilizando margenes automáticas para que se vea siempre centrado independientemente del ancho de la pantalla
    - Plus2: Al pasar el mouse por el botón el color de fondo debe cambiar a `#460d73`
