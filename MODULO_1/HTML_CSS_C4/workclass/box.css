@@ -1,0 +1,41 @@
+body {
+    color: red;
+    font-family: sans-serif;
+}
+.textBox {
+    border: 2px dashed red;
+    width: 300px;
+    color: blue;
+    font-family: cursive;
+    background-color: aqua;
+}
+
+.smallBox {
+    border: 2px dotted gray;
+}
+
+.boxImg {
+    border: 2px solid gray;
+    width: 300px;
+    height: 220px;
+    /* background-color: aquamarine; */
+    /* background-image: url("https://static.vecteezy.com/system/resources/thumbnails/002/098/203/small/silver-tabby-cat-sitting-on-green-background-free-photo.jpg"); */
+    background-image: url("./paris.jpg");
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+}
+
+.boxMargin{
+    border: 2px solid black;
+    width: 150px;
+    margin-left: 80px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.btnMarging {
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
