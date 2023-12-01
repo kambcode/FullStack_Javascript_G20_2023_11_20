@@ -1,0 +1,78 @@
+.container {
+    width: 600px;
+    height: 400px;
+    color: white;
+    border: 1px solid black;
+    background-size: cover;
+    background-image: url("https://ichef.bbc.co.uk/wwhp/999/cpsprodpb/125E8/production/_131104257_resize.jpg");
+}
+
+.container_text {
+    /* margin-top: 210px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-left: 40px; */
+
+    margin: 210px 10px 0px 40px;
+    border: 2px solid red;
+}
+
+.blueBox{
+    width: 220px;
+    height: 220px;
+    background-color: rgb(91, 91, 190);
+}
+.redBox{
+    width: 80px;
+    height: 80px;
+    background-color: red;
+    /* margin-left: 30%; */
+    margin: 50px 20px;
+}
+
+.marginPercent {
+    width: 100px;
+    background-color: green;
+    color: white;
+    margin-left: 30%;
+}
+
+.marginAuto {
+    width: 100px;
+    background-color: aqua;
+    margin: auto;
+}
+
+.parisImg {
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: -25px;
+}
+
+.parisImg:hover {
+    margin-left: 0px;
+}
+
+.paddingBox {
+    background-color: aquamarine;
+    width: 200px;
+    /* padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 5px; */
+    padding: 10px 30px 5px 20px;
+
+    /* Esta propiedad alinea
+    texto (SOLO TEXTO) */
+    text-align: center;
+}
+
+.boxRounded {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 5px solid black;
+    /* border-radius: 40px; */
+    border-radius: 50%;
+}
