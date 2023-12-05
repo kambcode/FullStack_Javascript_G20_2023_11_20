@@ -1,0 +1,50 @@
+.box {
+    border: 2px solid black;
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+}
+
+.flexBox{
+    background-color: yellow;
+    display: flex;
+}
+
+.flexBoxCenter {
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+}
+
+.flexBoxEnd {
+    background-color: rgb(122, 122, 85);
+    display: flex;
+    justify-content: end;
+}
+
+.flexBoxSpaceBetween {
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+}
+
+.flexBoxSpaceAround{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.flexBoxGap{
+    background-color: yellow;
+    display: flex;
+    gap: 20px;
+    /* justify-content: end; */
+}
+
+.flexBoxWrap {
+    background-color: yellow;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

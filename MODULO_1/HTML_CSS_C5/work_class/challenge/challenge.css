@@ -1,0 +1,25 @@
+.card {
+    border: 2px solid red;
+    width: 400px;
+}
+
+.parkImg{
+    width: 400px;
+    height: 400px;
+    background-image: url("./card_image.jpeg");
+    background-size: cover;
+    /* background-color: aqua; */
+
+    display: flex;
+    justify-content: end;
+}
+
+.location {
+    margin-top: 20px;
+    margin-right: 20px;
+    color: white;
+    height: 30px;
+    font-weight: 900;
+    font-size: 24px;
+    background-color: rgba(131, 183, 131, 0.873);
+}

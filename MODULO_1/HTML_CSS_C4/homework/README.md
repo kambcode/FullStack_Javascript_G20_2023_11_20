@@ -26,6 +26,3 @@ Los textos y la imágen de perfil deben quedar centrados en la tarjeta
 debe mínimo haber una separación de 40px entre  los textos y el borde de la tarjeta
   ![tarea2](./../resources/homework_2.jpeg)
 
-
-
-
