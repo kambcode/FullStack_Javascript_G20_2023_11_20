@@ -8,3 +8,7 @@
 .box {
     background-color: aqua;
 }
+
+.linea {
+    border: 1px solid gray;
+}
