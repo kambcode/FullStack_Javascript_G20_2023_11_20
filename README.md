@@ -27,3 +27,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 30/11/2023 Margin y padding CSS https://youtu.be/5F4RgY07Rik
 - 04/12/2023 Flex box https://youtu.be/E88Uwd7dagQ
 - 06/12/2023 Flex box clase 2 https://youtu.be/Z_Xq24oYgZ0
+- 15/01/2024 Flexbox clase 3 https://youtu.be/fv3nPoPCAe0
