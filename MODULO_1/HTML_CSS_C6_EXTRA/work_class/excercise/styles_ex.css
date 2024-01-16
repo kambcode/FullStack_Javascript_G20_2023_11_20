@@ -1,0 +1,37 @@
+body {
+    background-color: #FF9A8B;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px
+}
+.card {
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+img {
+    border-radius: 10px;
+    width: 100%;
+    box-shadow: 5px 5px 5px rgb(191, 191, 191);
+}
+
+.title {
+    border: 2px solid #FF9A8B;
+    border-radius: 4px;
+    width: 100px;
+    font-size: 24px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 35px;
+}
+button {
+    background-color: #e604c0;
+    border: 0px;
+    border-radius: 8px;
+    padding: 10px 30px;
+    margin-top: -12px;
+}
