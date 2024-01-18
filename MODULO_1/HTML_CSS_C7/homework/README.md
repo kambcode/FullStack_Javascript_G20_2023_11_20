@@ -14,7 +14,7 @@ Aplica los estilos dados según las condiciones especificadas de manera de llega
 
 3. Usando CSS grid áreas desarrolla la siguiente layout
 
-   - ![Tarea4](./../resources/TAREA_4.webp)
+   - ![Tarea4](./../resources/Tarea4.jpeg)
 
 4. Tarea final de Grid, utilizando CSS grid desarrolla la siguiente layout
 
