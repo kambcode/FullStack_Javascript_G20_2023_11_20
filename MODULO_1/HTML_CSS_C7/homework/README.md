@@ -16,7 +16,7 @@ Aplica los estilos dados según las condiciones especificadas de manera de llega
 
    - ![Tarea4](./../resources/Tarea4.jpeg)
 
-4. Tarea final de Grid, utilizando CSS grid desarrolla la siguiente layout
+4. Tarea final de Grid, utilizando CSS grid desarrolla la siguiente layout (ESTE PUNTO ES OPCIONAL)
 
    - ![Tarea3](./../resources/Tarea3.png)
 
