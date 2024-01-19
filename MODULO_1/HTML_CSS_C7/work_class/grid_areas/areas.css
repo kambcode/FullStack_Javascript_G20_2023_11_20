@@ -11,6 +11,7 @@
     margin-right: 30px;
     grid-template-columns: 1fr 200px;
     grid-template-rows: 100px auto auto 50px;
+    gap: 5px;
     grid-template-areas: 
     " aHead    aHead"
     " aRight   b    "
