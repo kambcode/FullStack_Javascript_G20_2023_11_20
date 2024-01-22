@@ -1,8 +1,8 @@
 ## Grid View VS flexbox
 
-En esta clase veremos un ejercicio practico para ver en que situaciones debemos usar flexbox y cuales es mejor usar grid view.
+En esta clase vimos un ejercicio practico para ver en que situaciones debemos usar flexbox y cuales es mejor usar grid view.
 
-Para ello replicaremos la siguiente página web 
+Coimo tarea te pronemos replicar la siguiente página web 
 ![web_page](./resources/page-grid-vs-flex.png)    
 
 # Importante
