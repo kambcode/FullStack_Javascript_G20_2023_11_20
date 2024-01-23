@@ -6,7 +6,7 @@ Como tarea te pronemos replicar la siguiente página web
 ![homework](./resources/page-grid-vs-flex-homework.png) 
 
 Si quieres ver la página completa la puedes ver
-[aquí](./resources/page-grid-vs-flex.png)    
+[aquí](./resources/page-grid-vs-flex_2.png)    
 
 # Importante
 
