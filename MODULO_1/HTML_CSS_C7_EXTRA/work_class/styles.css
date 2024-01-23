@@ -1,0 +1,60 @@
+.box {
+    background-color: grey;
+    font-size: 24px;
+    font-weight: 900;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.boxSecondary {
+    background-color: rgb(192, 192, 192);
+    font-size: 24px;
+    font-weight: 900;
+    color: black;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.container {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 100px 70px 100px 70px;
+    grid-template-rows: 100px 250px;
+    grid-template-areas: 
+    " A A . B "
+    " C D D D ";
+}
+
+.boxA {
+    grid-area: A;
+}
+
+.boxB {
+    grid-area: B;
+}
+
+.boxC {
+    grid-area: C;
+}
+
+.boxD {
+    grid-area: D;
+    margin: 25px;
+    display: grid;
+    grid-template-columns: 80px 1fr 80px;
+    grid-template-rows: 80px 80px ;
+    grid-template-areas: 
+    " E F F "
+    " E . G ";
+}
+
+.boxE{
+    grid-area: E;
+}
+.boxF{
+    grid-area: F;
+}
+.boxG{
+    grid-area: G;
+}
