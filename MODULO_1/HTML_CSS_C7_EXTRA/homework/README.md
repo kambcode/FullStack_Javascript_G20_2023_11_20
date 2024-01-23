@@ -2,11 +2,15 @@
 
 En esta clase vimos un ejercicio practico para ver en que situaciones debemos usar flexbox y cuales es mejor usar grid view.
 
-Coimo tarea te pronemos replicar la siguiente página web 
-![web_page](./resources/page-grid-vs-flex.png)    
+Como tarea te pronemos replicar la siguiente página web 
+![homework](./resources/page-grid-vs-flex-homework.png) 
+
+Si quieres ver la página completa la puedes ver
+[aquí](./resources/page-grid-vs-flex.png)    
 
 # Importante
 
+-
 - Para lograr el mismo background vamos a usar el siguiente gradiente en el body `background-image: linear-gradient(110deg, #f93d66, #6d47d9);`
 
 - Toda la página tiene un tipo de fuente `font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"`
