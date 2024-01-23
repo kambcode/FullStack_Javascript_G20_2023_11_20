@@ -6,7 +6,7 @@ Como tarea te pronemos replicar la siguiente página web
 ![homework](./resources/page-grid-vs-flex-homework.png) 
 
 Si quieres ver la página completa la puedes ver
-[aquí](./resources/page-grid-vs-flex_2.png)    
+[aquí](./resources/page-grid-vs-flex.png)    
 
 # Importante
 
@@ -30,6 +30,6 @@ Si quieres ver la página completa la puedes ver
 
 # Sugerencia 
 Como ejercicio práctico porponemos crear el siguiente layout usando grid view:
-![areas](./resources/flex-vs-grid-areas.png)    
+![areas](./resources/flex-vs-grid-areas_2.png)    
 
 Todo el contenido interno de el layout y de cáda área se hará con Flex.
