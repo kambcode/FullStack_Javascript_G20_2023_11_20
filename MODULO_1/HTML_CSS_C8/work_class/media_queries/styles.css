@@ -1,0 +1,57 @@
+.title {
+    font-size: 48px;
+    color: blue;
+}
+.box {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.container-flex {
+    font-size: 48px;
+    font-weight: 900px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.hamburger img { 
+    width: 80px;
+    display: none;
+}
+/* 
+Ejemplo Una pantalla de celular mide
+820px o menos de ancho */
+@media (max-width: 820px) {
+    /* Estos estilos aplica para pantallas
+    entre 0px y 820px */
+    .title {
+        font-size: 24px;
+        text-decoration: underline;
+    }
+
+    .box {
+        background-color: aquamarine;
+        width: 100px;
+    }
+
+    .container-flex {
+        flex-direction: column;
+        display: none;
+    }
+
+    .hamburger img {
+        display: block;
+    }
+}
+
+/* 
+Ejemplo Una pantalla de tablet mide entre
+820px y 1200px */
+@media (min-width: 820px) and (max-width: 1200px) {
+    .box {
+        background-color: blueviolet;
+    }
+}

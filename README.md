@@ -30,4 +30,5 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 15/01/2024 Flexbox clase 3 https://youtu.be/fv3nPoPCAe0
 - 17/01/2024 Grid view parte 1 https://youtu.be/_AlCy_CWMio
 - 18/01/2024 Grid view parte 2 https://youtu.be/Haz0iaIx0yw
-- 18/01/2024 Grid view vs flex https://youtu.be/opXhZzT66jM
+- 22/01/2024 Grid view vs flex https://youtu.be/opXhZzT66jM
+- 24/01/2024 Media Queries https://youtu.be/li68umcoxCk
