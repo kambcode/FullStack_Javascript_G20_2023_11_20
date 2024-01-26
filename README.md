@@ -32,3 +32,4 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 18/01/2024 Grid view parte 2 https://youtu.be/Haz0iaIx0yw
 - 22/01/2024 Grid view vs flex https://youtu.be/opXhZzT66jM
 - 24/01/2024 Media Queries https://youtu.be/li68umcoxCk
+- 26/01/2024 Proyecto final https://youtu.be/VVV2bwxhYWk
