@@ -13,7 +13,7 @@ En el siguiente enlace de figma ( [enlace al diseño propuesto del portafolio](h
    3. Limita al máximo el uso de `media queries`, piensa en contenedores hechos con `flexbox` y `flex-wrap` que se ajusten autmáticamente.
    4.  Si deseas incluir `grid view`, te recoemndamos usarlo solamenta para definir el layout de tu página y `flexbox` para crear el contenido dentro de cada sección o área del layout. Te recomendamos pensar en un grid con 3 columnas por 6 filas como lo muestra la imágen. El contenido interno de cada área lo puedes ubicar usando flexbox
    
-   <img src="./final_project_columns.png" width="230px" height="auto">
+   <img src="./final_project_columnas.png" width="230px" height="auto">
    <img src="./final_project_areas.png" width="222px" height="auto">
 
 ## IMPORTANTE
