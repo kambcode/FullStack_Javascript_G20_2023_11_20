@@ -1,0 +1,47 @@
+.container {
+    display: grid;
+    grid-template-columns: 0.1fr 0.8fr 0.1fr;
+    grid-template-rows: 80px auto 50px auto 50px auto;
+    grid-template-areas: 
+    " header   header  header "
+    " profile  profile profile "
+    " .        skills  . "
+    " blueLeft skills  blueRight "
+    " .        skills  . "
+    " footer   footer  footer ";
+}
+.header {
+    grid-area: header;
+}
+.profile {
+    grid-area: profile;
+}
+.skills {
+    grid-area: skills;
+    background-color: #06495E;
+    color: azure;
+}
+.blue-content-left {
+    grid-area: blueLeft;
+    background-color: #A3CEDB;
+}
+.blue-content-right {
+    grid-area: blueRight;
+    background-color: #A3CEDB;
+}
+.footer {
+    grid-area: footer;
+}
+
+
+
+
+.title {
+    font-size: 36px;
+    color: red;
+}
+
+.subtitle {
+    font-size: 24px;
+    color: blue;
+}

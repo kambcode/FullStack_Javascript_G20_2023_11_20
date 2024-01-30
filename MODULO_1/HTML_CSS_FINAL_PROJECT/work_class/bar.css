@@ -1,0 +1,29 @@
+.bar {
+    height: 50px;
+    width: 800px;
+    background-color: aqua;
+} 
+
+.bar-content {
+    height: 50px;
+    width: 65%;
+    background-color: red;
+}
+
+@media (max-width: 800px) {
+    .bar {
+        width: 200px;
+    }  
+}
+
+.line {
+    height: 300px;
+    width: 2px;
+    background-color: black;
+}
+
+.container-flex {
+    display: flex;
+    gap: 20px
+}
+
