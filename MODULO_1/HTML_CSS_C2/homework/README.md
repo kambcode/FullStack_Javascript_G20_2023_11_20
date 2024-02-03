@@ -13,4 +13,6 @@ A continuación te presentamos un ejemplo del album que debes crear:
 
 ![homework_2](./homework_album.png)
 
-## Trabajar en grupos:
+Como sugerencia te recomendamos pensar en dos tablas para hacer esta tarea:
+![image](https://github.com/kambcode/FullStack_Javascript_G20_2023_11_20/assets/146487542/7bcff67e-3633-4aa6-aeca-10a91d26c5e0)
+
