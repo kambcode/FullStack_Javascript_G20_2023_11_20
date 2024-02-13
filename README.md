@@ -34,4 +34,9 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 24/01/2024 Media Queries https://youtu.be/li68umcoxCk
 - 26/01/2024 Proyecto final https://youtu.be/VVV2bwxhYWk
 - 29/01/2024 Dudas proyecto final parte 1 https://youtu.be/hy279AMGb0s 
-- 29/01/2024 Dudas proyecto final parte 2 https://youtu.be/Vthh0uEBvPY 
+- 29/01/2024 Dudas proyecto final parte 2 https://youtu.be/Vthh0uEBvP
+## Modulo 2
+Clase 1: https://youtu.be/WMWsrSbPF7M 
+Clase 2: https://youtu.be/3KMrt_PSy3M
+Clase 3: https://youtu.be/3x-meLmoolo
+Clase 4: https://youtu.be/0J4RvAp_1Ys

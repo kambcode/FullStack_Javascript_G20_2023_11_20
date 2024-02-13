@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <script>
+            //alert("Cuidado Virus presente!");
+            //let titulo = prompt("Introduce tu titulo");
+            //let acepto = confirm("Acepta");
+            //console.log(titulo);
+           // document.write("<h1>German</h1>");
+            //document.getElementsByClassName('red').innerHTML=titulo;
+            ///Variable
+            /// Un espacio de memoria, apuntador
+            /// Tipos de Variables primitivos
+            ///ES6
+            /// 1 texto=> string,
+            let mensaje = "Hola mundo"; 
+            /// 2 numero => number
+            let numero = 8;
+            /// 3 binario => boolean
+            let onOff = true;
+            /// 4 nulo => null
+            let nulo = null;
+            /// 5 indefinido => undefined
+            let indefinido = undefined;
+            /// 6 objeto => object
+            let miObjeto = {"document": 1, "css": "./styles.css", on: true};
+                //array
+                let miArray = [1,2,3,4,5];                //date
+                //video
+            /// 7 simbolo => symbol
+            //let miSimbolo = symbol()
+
+            var miVariable = "";
+            miVariable = "un nuevo valor";
+            //var es visible, editable y puede ser 
+            //vista desde cualquier parte del codigo
+            // not private values
+
+            let miNuevaVariable = "";
+            miNuevaVariable = "un nuevo valor";
+            const miVariableConst = "";
+            // miVariableConst = "un nuevo valor"; // no es posible
+            // private values
+
+            //1, scope
+            //2. const no puede ser seteada dos veces
+            //3. Var es publica
+
+            {
+                let miVariableScope = "German";
+            }
+
+            //console.log(miVariableScope);
+            ///Operadores logicos
+            let numero1 = 1;
+            let numero2 = 2;
+            let numero3 = 3;
+            //Suma
+            let suma = numero1 + numero2;
+            //suma = suma + numero3;
+            suma += numero3;
+            //Resta
+            let resta = numero1 - numero2;
+            //resta = resta - numero3;
+            resta -= numero3;
+            //Multi
+            let multi = numero1 * numero2;
+            multi *= numero3;
+            //Div
+            let div = numero1 / numero2;
+            div /= numero3
+
+            let dario = 1 + "computadores";
+            dario = true + 1;
+            //"1computadores"
+
+            ///OPERADORES Logicos
+            ////Boolean=>> true, false
+            ///Comparaciones
+            let mercado = "50000";
+            let presupuesto = 50000;
+            ///Igualdad
+            //== solo compara valor
+            //=== valor y tambien comparar tipo de variable
+            let resultado = mercado === presupuesto // true o false
+            /// diferencia
+            // != solo compara valor
+            // !== compara valor y tipo
+            let resultado1 = mercado !== presupuesto;
+            /// comparador mayor que >
+            /// valor >
+            let resultado2 = mercado > presupuesto; //false
+            /// comparador menor que <
+            /// valor <
+            let resultado3 = mercado < presupuesto;
+            /// comparador mayor o  igual >=
+            let resultado4 = mercado >= presupuesto; //true
+            /// comparador menor o  igual <=
+            let resultado5 = mercado <= presupuesto; //true
+            // Logico and (y)
+            let a = false;
+            let b = false;
+
+            let resultado6 = a && b;
+            // Logico or (0)
+            let a1 = false;
+            let b1 = false;
+
+            let resultado7 = a1 || b1;
+
+            ///Si el mercado es menor que el 
+            //presupuesto y ademas el mercado 
+            //es mayor que 20000
+            let resultado8 = mercado < presupuesto && mercado > 20000;
+
+            //Logico negar
+            let esMayordeEdad = true;
+            
+            /// Si viene con el papa 
+            esMayordeEdad = !esMayordeEdad
+
+            let user1 = { "nombre": "", "edad": 16 };
+            let esMayorDeEdad = false;
+            ///Condicional
+            if (user1.edad > 18) {
+                esMayorDeEdad = true;
+            } else {
+                esMayorDeEdad = false;
+            }
+            console.log(esMayorDeEdad);
+
+///Pregunta el si es mayor de edad
+            // let edad = prompt("Introduce tu edad en numero");
+            // if(edad>18) {
+            //     alert("Tu eres mayor de edad");
+            // } else {
+            //     alert("Tu eres menor de edad");
+            // }
+
+            // let peso = parseFloat(prompt("Introduce tu peso en Kg"));
+            // let estatura = parseFloat(prompt("Ok tu peso es " + peso + " Kg, ahora Introduce tu estatura en m"));
+
+            // let imc = (peso) / (estatura * estatura)
+            // //alert("Tu indice de masa corporal es " + imc );
+
+            // const bajo = 18.5;
+            // const normal = 24.9;
+            // const sobrePeso = 29.9;
+            // const Obeso = 30;
+
+            // if(imc < bajo) {
+            //     alert("Estas en un imc bajo " + imc );
+            // } else if (imc >= bajo && imc <= normal) {
+            //     alert("Estas en un imc normal " + imc );
+            // } else if (imc > normal && imc <= sobrePeso) {
+            //     alert("Estas en un imc sobre peso " + sobrePeso );
+            // } else {
+            //     alert("Estas en un imc obeso " + Obeso );
+            // }
+                // while(true) {
+                    
+                //     setTimeout(()=>{
+                //         console.log(parrafo);
+                //         document.writeln("<p>"+ parrafo+"</p>");
+                //     },2000)
+                // }
+                //setTimeout( () => document.writeln("<p>"+ "" +"</p>"), 1000);
+                document.write("<p>German</p>"); 
+                function maquina() {
+                    let parrafo = prompt("Introduce el parrafo");
+                    document.writeln("<p>"+ parrafo+"</p>");
+                    setTimeout(()=>maquina(), 1000);
+                }
+            
+                maquina();
+
+
+        </script>
+    </body>
+</html>
