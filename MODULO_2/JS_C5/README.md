@@ -1,0 +1,5 @@
+#### Utilizacion de Node JS
+Teniendo en cuenta que ya realizo un programa de calculadora con la entrada, prompt de datos, la idea es sustituir este metodo thel objeto dom por un metodo propio de Node Js en consola, porfavor refierase a esta pagina para entender un poco mas:
+* https://nodejs.org/en/learn/command-line/accept-input-from-the-command-line-in-nodejs
+
+Ahora la idea es que utilice su logica de codigo, ya establecida en la tarea anterior, y cambie los metodos de entrada de una pagina web, a metodos de entrada por consola. Mire el archivo entradaDatosCondola.js, en esta carpeta, corralo se dara cuenta que el archivo js interactua con ud pidiendo una cantidad, y despues pidiendo su nombre. Ahora que ya sabes como recibir datos de la consola, intenta crear tu calculadora usando la logica de tu tarea anterior pero cambiando el uso a solo consola.
