@@ -15,10 +15,13 @@ function input(prompt) {
 
 
 const main = async () => {
+    //Inicio
     const amount = await input("Introduzca la cantidad: ");
     console.log(amount);
     const name = await input("EIntroduzca su nombre: ");
     console.log(name);
+    alert("")
+    //Final
     rli.close();
 };
 

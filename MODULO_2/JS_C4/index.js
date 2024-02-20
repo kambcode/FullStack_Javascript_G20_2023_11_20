@@ -1,5 +1,7 @@
 let myName = "German Arciniegas";
 console.log(myName);
+//DOM - document object main
+//let numero = document.prompt("Introduce un numero");
 
  //// typo de variable
 //let temperatura = parseFloat(prompt("Introduzca su temperatura"));
