@@ -1,9 +1,9 @@
 ///Objetos
 ///Cual array escoge el usuario carrosMarca (2), o aerolineas (1)
 /// Todas las variables
-const nombresMujer = ["Mercedes", "Bmw", "Honda", "Toyota", "Mazda"];
-const colores = ["Avianca", "Latam", "Emirates", "KML", "Copa"];
-
+const carrosMarcas = ["Mercedes", "Bmw", "Honda", "Toyota", "Mazda"];
+const aerolineas = ["Avianca", "Latam", "Emirates", "KML", "Copa"];
+//const marcaCarro = carrosMarcas[4]
 const store = {
     eleccion: Math.floor(Math.random()*2)+1,
     elementosSimonDice: [],
@@ -11,6 +11,8 @@ const store = {
     eleccionArray: [],
     puntaje: 0,
 };
+
+//const miPuntaje = store['puntaje']
 
 // Todas las funciones
 const agregarElementoNuevoAlArraySimon = () => {
