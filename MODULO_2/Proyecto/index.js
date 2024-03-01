@@ -26,11 +26,11 @@ const sumarNumero = () => {
 const eleccionOperacion = (numero) => {
     rl.question('Ingrese operacion, suma (s), resta(r), division(d), multiplicacion(m) ', (respuesta) => {
         respuesta = respuesta.toLowerCase();
-        if(respuesta === 's' || respuesta === 'suma') {
+        if(respuesta === 's' || respuesta === 'Suma') {
             acumulado = acumulado + numero;
             console.log(`Acumulado actual: ${acumulado}`);
             inicio();
-        }
+        } 
     });
   };
 
@@ -62,3 +62,15 @@ inicio();
 // }
 
 // sumarDosNumeros(10,10);
+
+const miFuncionPrueba = (edad) => {
+    if(edad > 18) {
+        return "Es mayor de edad" 
+    }
+
+    if(edad <= 18) {
+        return "Es menor de edad" 
+    }
+
+    return "No se que edad es"
+}
