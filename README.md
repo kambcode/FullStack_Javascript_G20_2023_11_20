@@ -17,7 +17,9 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 ![image](https://github.com/KamiloMontoya/kambcode_g1/assets/11945476/8d8f7da6-aa4c-4d67-9dec-59cd360bda0f)
 
 # Grabaciones de clase
+
 ## Modulo 1
+
 - 20/11/2023 Introduccion a HTML https://youtu.be/tbO5r_AHuv4
 - 21/11/2023 Sesion 1 trabajo grupal https://youtu.be/5WVpk5QGKXI
 - 22/11/2023 Formularios en HTML https://youtu.be/Syex2yfYpX4
@@ -33,10 +35,16 @@ Recuerda, cada vez que quieras actualizar tu codigo local con los ultimos cambio
 - 22/01/2024 Grid view vs flex https://youtu.be/opXhZzT66jM
 - 24/01/2024 Media Queries https://youtu.be/li68umcoxCk
 - 26/01/2024 Proyecto final https://youtu.be/VVV2bwxhYWk
-- 29/01/2024 Dudas proyecto final parte 1 https://youtu.be/hy279AMGb0s 
+- 29/01/2024 Dudas proyecto final parte 1 https://youtu.be/hy279AMGb0s
 - 29/01/2024 Dudas proyecto final parte 2 https://youtu.be/Vthh0uEBvP
+
 ## Modulo 2
-Clase 1: https://youtu.be/WMWsrSbPF7M 
+
+Clase 1: https://youtu.be/WMWsrSbPF7M
 Clase 2: https://youtu.be/3KMrt_PSy3M
 Clase 3: https://youtu.be/3x-meLmoolo
 Clase 4: https://youtu.be/0J4RvAp_1Ys
+
+## Modulo 3
+
+- 04/03/2024 Git - Github https://www.youtube.com/watch?v=I3wZm2LWE_s
