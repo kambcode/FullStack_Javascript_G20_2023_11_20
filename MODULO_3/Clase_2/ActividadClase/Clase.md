@@ -21,4 +21,5 @@
 
 ### comandos git 
 #### cómo hacer un commit?
-- 
+- git add .
+- git commit -m "aqui va el mensaje"
