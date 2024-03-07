@@ -1,6 +1,6 @@
 Homework
 
-- Crear un tutorial de la clase de comandos
+- Crear un tutorial de la clase de comandos utilizando syntax markdown: https://www.markdownguide.org/basic-syntax/
 
 # Tutorial
 
