@@ -20,6 +20,12 @@
 - ruta archivo en un folder anterior -> ../Homework/tarea.md
 
 ### comandos git 
+- git status
+- git log
 #### cómo hacer un commit?
 - git add .
 - git commit -m "aqui va el mensaje"
+#### cómo crear una nueva rama
+- git checkout -b nombre-de-la-rama
+#### cómo cambiar de ramas
+- git checkout nombre-de-la-rama
