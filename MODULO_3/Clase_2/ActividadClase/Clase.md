@@ -29,3 +29,5 @@
 - git checkout -b nombre-de-la-rama
 #### cómo cambiar de ramas
 - git checkout nombre-de-la-rama
+#### cómo nombrar una rama
+- https://medium.com/@jmz12/recomendaciones-para-el-manejo-de-ramas-5dd4b5a23c91
