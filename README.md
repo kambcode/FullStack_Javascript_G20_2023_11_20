@@ -48,6 +48,7 @@ Clase 4: https://youtu.be/0J4RvAp_1Ys
 ## Modulo 3
 
 - 04/03/2024 Git - Github https://www.youtube.com/watch?v=I3wZm2LWE_s
-- 04/06/2024 Git - commands https://youtu.be/UX0zRhbkYKY
-- 04/09/2024 Git - advanced commands https://youtu.be/2oDg0o2-Yjk
-- 04/11/2024 Algoritmos - Diagrama de flujos https://youtu.be/Y1Hrz913mbU
+- 06/03/2024 Git - commands https://youtu.be/UX0zRhbkYKY
+- 09/03/2024 Git - advanced commands https://youtu.be/2oDg0o2-Yjk
+- 11/03/2024 Algoritmos - Diagrama de flujos https://youtu.be/Y1Hrz913mbU
+- 13/03/2024 Algoritmos - Operadores https://youtu.be/25-bzO6mX_M
