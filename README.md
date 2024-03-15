@@ -52,3 +52,4 @@ Clase 4: https://youtu.be/0J4RvAp_1Ys
 - 09/03/2024 Git - advanced commands https://youtu.be/2oDg0o2-Yjk
 - 11/03/2024 Algoritmos - Diagrama de flujos https://youtu.be/Y1Hrz913mbU
 - 13/03/2024 Algoritmos - Operadores https://youtu.be/25-bzO6mX_M
+- 14/03/2024 js - Repaso https://youtu.be/eam8VVhofPQ

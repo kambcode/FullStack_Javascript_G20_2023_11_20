@@ -56,3 +56,27 @@ console.log(longitud);
 console.log(arr[0]);
 console.log(arr[1]);
 console.log(arr[3][0]);
+
+// join
+
+const user = ["david", 23, "developer", "Colombia"];
+
+console.log(user.join());
+
+// Shift
+
+console.log(user.shift());
+
+// Sort
+
+const numeros = [20, 16, 222, 11, 89, 454, 654, 64, 12, 45];
+
+console.log(numeros.sort((a, b) => a - b));
+
+// unshift
+
+numeros.sort((a, b) => a - b);
+
+numeros.unshift(1);
+
+console.log(numeros);
