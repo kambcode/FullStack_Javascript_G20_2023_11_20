@@ -1,6 +1,8 @@
-Tarea de JavaScript: Manipulación Básica de Arrays y Objetos
+# Tarea 7 
+Manipulación Básica de Arrays y Objetos
 
-Objetivo general: Practicar la manipulación de arrays y objetos en JavaScript de manera progresiva.
+## Objetivo general 
+Practicar la manipulación de arrays y objetos en JavaScript de manera progresiva.
 
  - **Punto 1: Acceso y Modificación Básica de Datos:** Crea un array llamado estudiantes que contenga objetos representando a tres estudiantes.
     - Cada objeto debe tener las siguientes propiedades: nombre, edad, y promedio.
