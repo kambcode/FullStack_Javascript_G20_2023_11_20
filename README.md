@@ -54,5 +54,5 @@ Clase 4: https://youtu.be/0J4RvAp_1Ys
 - 13/03/2024 Algoritmos - Operadores https://youtu.be/25-bzO6mX_M
 - 14/03/2024 js - Repaso https://youtu.be/eam8VVhofPQ
 - 18/03/2024 js - Repaso 2 https://youtu.be/hTPYs33R8sI
-- 20/03/2024 js - Metodos Array
+- 20/03/2024 js - Metodos Array https://youtu.be/iCyW2X8FwUA
 - 21/03/2024 js - Closers/Callbacks https://youtu.be/WpnKbTcDTjo
