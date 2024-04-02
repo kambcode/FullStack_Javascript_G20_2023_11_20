@@ -56,3 +56,4 @@ Clase 4: https://youtu.be/0J4RvAp_1Ys
 - 18/03/2024 js - Repaso 2 https://youtu.be/hTPYs33R8sI
 - 20/03/2024 js - Metodos Array https://youtu.be/iCyW2X8FwUA
 - 21/03/2024 js - Closers/Callbacks https://youtu.be/WpnKbTcDTjo
+- 01/04/2024 js - Promise https://youtu.be/dgmKb1ufL4U
