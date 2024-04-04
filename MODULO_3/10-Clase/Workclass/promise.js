@@ -33,17 +33,25 @@ function main2() {
   const promiseMessage2 = handlerTime2("segunda respuesta", 3000);
   const promiseMessage3 = handlerTime2("tercera respuesta", 3000);
 
+  console.log("hola 1");
+
   promiseMessage1.then((response) => {
     console.log(response);
   });
+
+  console.log("hola 2");
 
   promiseMessage2.then((response) => {
     console.log(response);
   });
 
+  console.log("hola 3");
+
   promiseMessage3.then((response) => {
     console.log(response);
   });
+
+  console.log("hola 4");
 }
 
 // main2();
