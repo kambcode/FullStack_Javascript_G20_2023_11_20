@@ -58,3 +58,4 @@ Clase 4: https://youtu.be/0J4RvAp_1Ys
 - 21/03/2024 js - Closers/Callbacks https://youtu.be/WpnKbTcDTjo
 - 01/04/2024 js - Promise https://youtu.be/dgmKb1ufL4U
 - 03/04/2024 js - Async-Await https://youtu.be/4QhH77aN2b4
+- 04/04/2024 js - Try-Catch https://youtu.be/1DDZAe3EvTw
