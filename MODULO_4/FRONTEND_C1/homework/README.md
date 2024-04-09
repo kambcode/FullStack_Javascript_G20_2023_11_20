@@ -10,7 +10,13 @@ Crear un nuevo titulo y un parrafo desde la consola manipulando el DOM, de una p
 
 Utiliza herramientas como Postman o cURL para realizar solicitudes HTTP GET y POST a una API pública o local.
 Realiza una solicitud GET para obtener datos de una API FREE de prueba.
-El profesor debe de hace un ejemplo en clase, con postman y una API publica free.
+URL API: https://pokeapi.co/
+Docs API: https://pokeapi.co/docs/v2
+Postman: https://www.postman.com/downloads/
+
+Crear una rama con la siguiente estructura pokemon/nombreEstudiante y crear un pull request agregando una carpeta llamada pokeapi con un archivo json por cada pokemon consultado 
+
+opcional realizar peticiones a otros apis en la documentacion
 
 ### Investigar sobre la comunicación entre BackEnd y FrontEnd:
 
