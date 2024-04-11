@@ -21,7 +21,7 @@ Para iniciar un proyecto en React y crear un "Hola Mundo", puedes seguir estos p
 3. Ejecuta el siguiente comando para crear un nuevo proyecto de React:
 
 ```
-npx create-react-app mi-proyecto-react
+G20
 ```
 
 

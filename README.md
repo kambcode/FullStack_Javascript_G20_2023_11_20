@@ -62,3 +62,4 @@ Clase 4: https://youtu.be/0J4RvAp_1Ys
 
 ## Modulo 4 
 -08/04/2024 js - DOM-fetch https://youtu.be/ocFfZRc-YlY
+-10/04/2024 React - inital app, hello world https://youtu.be/GteF0kd-iYg
