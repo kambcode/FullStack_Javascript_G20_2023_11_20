@@ -128,3 +128,5 @@ export default MiComponente;
 ```
 
 Este es un resumen de los conceptos básicos sobre Hooks y el ciclo de vida en React.
+
+Nota: en un nuevo proyecto de react en caso de no necesitar hacer uso de pruebas pueden borrar los archivos que tengan .test en el nombre, de no hacer uso de los reportWebVitals borrar ese archivo tambien, el logo de react, el manifest..json tambien los pueden eliminar, asegurandose que en los archivos app.js o index,js no se haga uso o eliminar las importaciones en estos para no tener conflictos  

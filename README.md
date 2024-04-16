@@ -65,3 +65,4 @@ Clase 4: https://youtu.be/0J4RvAp_1Ys
 -10/04/2024 React - inital app, hello world https://youtu.be/GteF0kd-iYg
 -11/04/2024 React - mentoria y repaso dom y hello world https://youtu.be/kMlkXEyZYcU
 -12/04/2024 react - componentes https://youtu.be/LkwWpIMhdKs
+-15/04/2024 react - Estados y useEffect https://youtu.be/gsZZA-_xGYU
