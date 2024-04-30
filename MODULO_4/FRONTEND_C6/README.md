@@ -36,7 +36,6 @@ Para la navegación entre páginas, utilizamos los componentes Link y NavLink. E
 
 ### Ejemplo de Implementación Antiguo con Routes:
 
-### Ejemplo de Implementación Antiguo con Switch:
  ```
   import { Link, Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import Contactanos from "./components/contactanos";
