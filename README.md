@@ -68,4 +68,6 @@ Clase 4: https://youtu.be/0J4RvAp_1Ys
 -15/04/2024 react - Estados y useEffect https://youtu.be/gsZZA-_xGYU
 -17/04/2024 react - forms https://youtu.be/AIA8qujkP0U
 -22/04-2024 react - router https://youtu.be/QK8T7BFHIe8
---24/04-2024 react - axios, api key, buscador https://youtu.be/xC8u-SAia2ws
+-24/04-2024 react - axios, api key, buscador https://youtu.be/xC8u-SAia2ws
+-29/04/2024 react - context api https://youtu.be/FeDl0_rTD9g
+-02/05/2024 react - resumen modulo https://youtu.be/UFmiZPO9oeE
