@@ -1,0 +1,53 @@
+.body{
+  background-color: black;
+}
+.logo{ 
+  padding: 30px;
+ display: flex;
+}
+.picture{
+  border-radius: 50%;
+  height: 200px;
+}
+h1{
+  color: white;
+  border-bottom: 30px;
+  Padding: 30px;
+}
+h2{
+  padding-left: 20px;
+  color:grey
+}
+p{
+  padding-left: 20px;
+  color:grey
+}
+h3{
+  color: white;
+  display:flex
+}
+.p1{
+  border-bottom: 10px;
+}
+.area{
+  display:grid;
+  grid-template-columns: 0.3fr,0.7fr;
+  grid-template-rows: 1fr,1fr;
+  grid-template-areas: 
+  "g1  g2"
+  "g3  g4";
+}
+.fecha1{
+  grid-area: g1;
+}
+.descripcion1{
+  grid-area: g2;
+}
+.viewmore{
+    padding: 40px;
+}
+.ab{
+  padding:10px;
+  color: white;
+}
+  
