@@ -8,6 +8,12 @@ const arrayEstudiantes = ["Jose", "David", "Janeht"];
 console.log(arrayBasico);
 console.log(arrayEstudiantes);
 
+// Array de frutas
 let frutas = ["Manzana", "Pera", "Banana", "Naranja"];
 
+console.log(frutas);
+
+// Voy a utilizar el método .push para agregar algo a mi array.
+frutas.push("Poma Rosa");
+// Acá ya nos debe aparecer la poma rosa
 console.log(frutas);
