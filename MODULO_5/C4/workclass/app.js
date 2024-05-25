@@ -16,3 +16,17 @@ server.listen(PORT, () => {
 console.log('Esta es mi aplicación, después de instalar Nodemon');
 console.log('Soy estudiante de Kambcode');
 console.log('Soy Jose Luis, y soy el profe');
+
+// Spread operator
+
+// Con arrays
+const estudiantes = ["Jose", "Darío", "Janeth", "David"];
+const temas = ["HTML", "CSS", "JavaScript", "Node.js"];
+
+const estudianteTema = [...estudiantes, ...temas, "Para cada estudiante, un tema, en orden"];
+
+console.log(estudiantes, temas);
+
+console.log(estudianteTema, "Este es mi array transformado");
+
+// Con objetos
