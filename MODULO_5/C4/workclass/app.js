@@ -30,3 +30,21 @@ console.log(estudiantes, temas);
 console.log(estudianteTema, "Este es mi array transformado");
 
 // Con objetos
+
+let carro = {
+    marca: "Renault",
+    referencia: "Logan",
+    precio: "$45.000.000"
+};
+
+let venta = {
+    numeroFactura: "COD458934Renault",
+    impuesto: "$2.200.000"
+};
+
+const carroVenta = {
+    ...carro,
+    ...venta
+};
+
+console.log(carroVenta);
