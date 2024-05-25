@@ -48,3 +48,32 @@ const carroVenta = {
 };
 
 console.log(carroVenta);
+
+const myPromise = new Promise((resolve, reject) => {
+// Simulando una tarea asíncrona con setTimeout
+setTimeout(() => {
+    const randomNumber = Math.random();
+    if (randomNumber > 0.5) {
+    resolve(randomNumber);
+    } else {
+    reject(new Error('El número es menor o igual a 0.5'));
+    }
+}, 1000);
+});
+  
+  // Manejo de la promesa resuelta
+  myPromise.then((result) => {
+    console.log('La promesa se resolvió con éxito:', result);
+  }).catch((error) => {
+    console.error('La promesa fue rechazada:', error.message);
+  });
+
+  async function miFuncion() {
+    try {
+      // Esperar a que se resuelva la promesa antes de continuar
+      const resultado = await algunaPromesa();
+      console.log('La promesa se resolvió con éxito:', resultado);
+    } catch (error) {
+      console.error('Ocurrió un error:', error);
+    }
+  }
