@@ -77,4 +77,5 @@ Clase 4: https://youtu.be/0J4RvAp_1Ys
 - 16/05/2024 Backend - JS Basics, Intr. Node.js -https://youtu.be/CvIPeam79bw
 - 20/05/2024 Backend - Node.js, npm, package.json - https://youtu.be/KjEAWtS5Mks
 - 24/05/2024 Backend - Node.js, npm, nodemon, promises, async/await - https://youtu.be/4lW6d1UZfPI
-- 27/05/2024 Backend - Node.js, async/await, streams, buffres, fs - (https://youtu.be/A64E7NMjKiE)
+- 27/05/2024 Backend - Node.js, async/await, streams, buffres, fs - https://youtu.be/A64E7NMjKiE
+- 29/05/2024 Backend - Node.js, filesystem, http, intr. API Rest - --
