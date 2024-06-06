@@ -30,12 +30,18 @@ app.put('/items/:id', (req, res) => {
     res.send(newItem);
 });
   
-  // Delete
-  app.delete('/items/:id', (req, res) => {
+// Delete
+app.delete('/items/:id', (req, res) => {
     const { id } = req.params;
     items = items.filter(item => item.id != id);
     res.status(204).send();
-  });
+});
+
+const logger = (req, res, next) => {
+    console.log(`${req.method} ${req.url}`);
+}
+
+app.use(logger);
 
 app.listen(port, () => {
     console.log(`Servidor corriendo en http://localhost:${port}`)
