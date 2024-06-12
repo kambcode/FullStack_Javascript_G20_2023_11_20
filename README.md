@@ -82,3 +82,4 @@ Clase 4: https://youtu.be/0J4RvAp_1Ys
 - 31/05/2024 Backend - Node.js, http, express, API Rest - https://youtu.be/63UsJSadp_4
 - 05/06/2024 Backend - Node.js, Express, Middleware, Body Params - https://youtu.be/1MmqTN1w-qs
 - 07/06/2024 Backend - Node.js, Express, Middleware, Params, dotenv - https://youtu.be/klDfVQofHvQ
+- 11/06/2024 Backend - Node.js, Express, Reto final IA -https://youtu.be/50MpB7TcjlI
